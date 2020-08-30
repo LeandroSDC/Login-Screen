@@ -1,2 +1,2 @@
 # Login-Screen
-Just an simple animated login screen.
+Uma simples tela de login.
